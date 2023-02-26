@@ -1,1 +1,1 @@
-Projeto criado e desenvolvido durante aulas do curso  **Orientação a Objetos com PHP: Classes, métodos e atributos** da Alura Cursos Online
+To run the code, access the directory through the terminal and execute the command: php banco.php
